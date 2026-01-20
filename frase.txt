@@ -1,0 +1,4 @@
+Este comando irá alternar o diretório de trabalho atual para a ramificação principal, atualizando o diretório de trabalho para refletir o estado da ramificação padrão especificada.
+
+Etapa 2: Verificando o arquivo principal a partir da origem
+Se você estiver trabalhando com repositórios remotos (geralmente chamados de "origin"), talvez precise fazer o checkout da branch principal rastreada no repositório remoto. Antes de fazer o checkout, certifique-se de que sua lista de branches esteja atualizada:
